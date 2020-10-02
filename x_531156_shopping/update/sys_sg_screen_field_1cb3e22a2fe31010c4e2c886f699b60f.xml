@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_screen_field">
+    <sys_sg_screen_field action="INSERT_OR_UPDATE">
+        <data_item_field_name>item</data_item_field_name>
+        <description_text/>
+        <description_text_field/>
+        <description_text_type/>
+        <field_name/>
+        <hidden>false</hidden>
+        <order>10</order>
+        <record_id_field/>
+        <screen display_value="Details">98b3a22a2fe31010c4e2c886f699b6f7</screen>
+        <screen_data_item_table>x_531156_shopping_shopping_item</screen_data_item_table>
+        <sys_class_name>sys_sg_screen_field</sys_class_name>
+        <sys_created_by>edoardo.milkovic</sys_created_by>
+        <sys_created_on>2020-10-02 13:09:22</sys_created_on>
+        <sys_id>1cb3e22a2fe31010c4e2c886f699b60f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>item</sys_name>
+        <sys_package display_value="Shopping List" source="x_531156_shopping">e44a16622fe31010c4e2c886f699b655</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">e44a16622fe31010c4e2c886f699b655</sys_scope>
+        <sys_update_name>sys_sg_screen_field_1cb3e22a2fe31010c4e2c886f699b60f</sys_update_name>
+        <sys_updated_by>edoardo.milkovic</sys_updated_by>
+        <sys_updated_on>2020-10-02 13:09:22</sys_updated_on>
+        <type>auto</type>
+        <value_only>false</value_only>
+    </sys_sg_screen_field>
+    <sys_translated_text action="delete_multiple" query="documentkey=1cb3e22a2fe31010c4e2c886f699b60f"/>
+</record_update>
